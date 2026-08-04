@@ -2,6 +2,8 @@
 
 ShiftZen Logistics is a premium single-page frontend for a Packers and Movers business directory built to showcase verified relocation partners across India. The interface is designed around trust, clarity, and conversion, combining a polished visual identity with responsive layouts, animated interactions, and fast Vite-powered development.
 
+**View live:** [https://krrish41.github.io/Shiftzen/](https://krrish41.github.io/Shiftzen/)
+
 ## Project Overview
 
 This project presents a modern landing page for a logistics and relocation brand with a strong focus on:
